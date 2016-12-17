@@ -1,3 +1,5 @@
+### The following content of this README.md is from the original Tensorflow Android demo and has been left for reference. Please follow the instructions in root README.md.
+
 # TensorFlow Android Camera Demo
 
 This folder contains an example application utilizing TensorFlow for Android
